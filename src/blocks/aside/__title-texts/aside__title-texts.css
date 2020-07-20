@@ -1,0 +1,5 @@
+.aside__title-texts {
+    display: flex;
+    flex-flow: column;    
+    margin-top: 13px;
+}

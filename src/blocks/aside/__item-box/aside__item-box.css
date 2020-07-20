@@ -1,0 +1,14 @@
+.aside__item-box {
+   width: 237px;
+   height: 51px;
+   border-radius: 52px;
+   padding: 11px 0px 12px 16px;
+   box-sizing: border-box;
+   margin-bottom: 27px;
+   display: flex;
+   color: #F3DBC7;
+}
+
+.aside__item-box:hover {
+   cursor: pointer;
+}

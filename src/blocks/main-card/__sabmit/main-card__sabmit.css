@@ -1,0 +1,9 @@
+.main-card__submit {
+    position: absolute;
+width: 129px;
+height: 39px;
+background: #567354;
+border-radius: 33px;
+color: #fff;
+margin: -27px 25px 0;
+}

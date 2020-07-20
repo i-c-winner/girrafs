@@ -1,0 +1,8 @@
+.main-card__value-box {
+    display: flex;
+    margin-top: 16px;
+}
+
+.main-card__value-box:first-child{
+    margin-top: 31px;
+}

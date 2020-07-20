@@ -1,0 +1,10 @@
+@import url('./_sex/main-card__icon_sex.css');
+@import url('./_line/main-card__icon_line.css');
+@import url('./_libra/main-card__icon_libra.css');
+
+.main-card__icon {
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    box-sizing: border-box;
+}

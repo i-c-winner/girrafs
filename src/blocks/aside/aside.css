@@ -1,0 +1,18 @@
+@import url('./__body/aside__body.css');
+@import url('./__item-text/aside__item-text.css');
+@import url('./__item-box/aside__item-box.css');
+@import url('./__icon/aside__icon.css');
+@import url('./__title/aside__title.css');
+@import url('./__title-texts/aside__title-texts.css');
+@import url('./__subtitle/aside__subtitle.css');
+@import url('./__img/aside__img.css');
+@import url('./__header/aside__header.css');
+
+.aside {
+    width: 305px;
+    height: 900px;
+    padding: 18px 25px 0 46px;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column;
+    }

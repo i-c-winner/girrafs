@@ -1,0 +1,15 @@
+@import url('./_name/main-card__input_name.css');
+@import url('./_weidght/main-card__input_weidght.css');
+@import url('./_sex/main-card__input_sex.css');
+@import url('./_name/main-card__input_name.css');
+@import url('./_height/main-card__input_height.css');
+@import url('./_dieta/main-card__input_diete.css');
+@import url('./_color/main-card__input_color.css');
+@import url('./_character/main-card__input_character.css');
+
+.main-card__input {
+    background-color: inherit;
+    box-shadow: none;
+    border: none;
+    text-align: center; 
+}

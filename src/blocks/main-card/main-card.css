@@ -1,0 +1,30 @@
+
+@import url('./__img/_create/main-card__img_create.css');
+@import url('./__create/_disabled/main-card__create_disabled.css');
+@import url('./__sabmit/main-card__sabmit.css');
+@import url('./__value-box/main-card__value-box.css');
+@import url('./__create/main-card__create.css');
+@import url('./_type/_span/main-card_type_span.css');
+@import url('./__icon/main-card__icon.css');
+@import url('./__name/main-card__name.css');
+@import url('./__img/main-card__img.css');
+@import url('./__icons/main-card__icons.css');
+@import url('./__icons-texts/main-card__icons-texts.css');
+@import url('./__help/main-card__help.css');
+@import url('./__dieta/main-card__dieta.css');
+@import url('./__color/main-card__color.css');
+@import url('./__character/main-card__character.css');
+@import url('./_state/main-card_state_disabled.css');
+
+.main-card {   
+    width: 236px;     
+    background: #F3DBC7;
+    border-radius: 28px;
+    padding: 14px 23px 0;
+    box-sizing: border-box;
+    margin-left: 33px;
+ }
+
+ .main-card:first-child {
+     margin-left: 0;
+ }

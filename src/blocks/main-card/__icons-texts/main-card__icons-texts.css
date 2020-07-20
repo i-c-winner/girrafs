@@ -1,0 +1,7 @@
+.main-card__icons-texts {
+    display: flex;
+    justify-content: space-between;
+   border-radius: 58px;
+    background-color: #DCB18B;
+    padding: 10px 24px;
+}

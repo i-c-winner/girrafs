@@ -1,0 +1,6 @@
+.main-card__icons {
+    display: flex;
+    padding: 0 20px;
+    margin-bottom: 12px;
+    justify-content: space-between;
+}
