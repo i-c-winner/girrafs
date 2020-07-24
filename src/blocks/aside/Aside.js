@@ -13,7 +13,7 @@ function Aside() {
     return (
         <div className="aside">
             <div className="aside__header">
-                <img className="aside__img" src={asideImage} />
+                <img className="aside__img" src={asideImage} alt="Лого"/>
                 <div className="aside__title-texts">
                     <h1 className="aside__title">
                         Ферма заслуженных жирафов
@@ -31,7 +31,7 @@ function Aside() {
                                 colors = colorActiv
                             } else {
                                 colors = colorPassiv
-                            }
+                            } 
                         }
                         return (
                             <li className="aside__item-box" key={elem[0]}
@@ -50,6 +50,7 @@ function Aside() {
                     })
                 }
             </ul>
+
         </div>
     )
 }

@@ -1,6 +1,8 @@
+
+
 const listStartGirrafs=[
     {
-        url: '../vendor/images/girrafs/giraf(1).png',
+        img: 'https://res.cloudinary.com/dhbdvadmd/image/upload/v1595408534/girrafs/girraf_2_xgrluo.png',
         name: "Антон",
         sex: "М",
         weight: '900',
@@ -10,16 +12,15 @@ const listStartGirrafs=[
         character: "мягкий"
     },
     {
-        url: '../vendor/images/girrafs/giraf(1).png',
+        img: 'https://res.cloudinary.com/dhbdvadmd/image/upload/v1595408534/girrafs/girraf_5_jezfqd.png',
         name: "Сегрей",
         sex: "Ж",
         weight: '900',
         height: '4.9',
         color: "серый",
         dieta: "банановая",
-        character: "не женат"
+        character: "не женат" 
     }
     
 ]
-
-export default listStartGirrafs;
+ export default listStartGirrafs;

@@ -1,0 +1,4 @@
+.main-header__menu-item_activ {
+    border-bottom: 2px black solid;
+    box-sizing: border-box;
+}

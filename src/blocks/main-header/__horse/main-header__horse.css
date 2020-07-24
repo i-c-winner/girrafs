@@ -1,0 +1,7 @@
+.main-header__horse {
+    width: 34px;
+    height: 34px;
+    background-image: url(../../../vendor/images/ziraf_logo.png);
+    background-size: cover;
+    margin-right: 23px;
+}

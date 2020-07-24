@@ -1,0 +1,34 @@
+
+@import url('./_state/_enabled.css');
+@import url('./_state/_disabled.css');
+
+
+    
+.popover {
+    width: 174px;
+    height: 94px;
+    border-radius: 20px;
+    background-color: rgba(102, 134, 99, 1);
+    left: -50px;
+    top: 20px;
+    z-index: 2;
+}
+
+.popover__fon {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(102, 134, 99, 0);
+  height: 100%;
+  z-index: 1;
+}
+
+.popover__fon_disabled {
+  display: none;
+}
+
+.popover__fon_enabled {
+  display: inherit;
+}
+

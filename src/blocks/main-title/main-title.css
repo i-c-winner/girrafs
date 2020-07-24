@@ -1,0 +1,6 @@
+@import url('./__plus/main-title__plus.css');
+@import url('./__name/main-title__name.css');
+
+.main-title {
+    display: flex;
+}

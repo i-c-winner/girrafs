@@ -1,0 +1,15 @@
+@import url('./__email/main-heder__email.css');
+@import url('./__contacts/main-header__contacts.css');
+@import url('./__horse/main-header__horse.css');
+@import url('./__bell/main-header__bell.css');
+@import url('./__menu/_plus/main-header__menu_plus.css');
+@import url('./__menu-item/header-main__menu-item.css');
+@import url('./__menu/main-header__menu.css');
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    height: 58px;    
+    align-items: flex-end;
+    border-bottom: 2px solid #D9D9D9;
+}

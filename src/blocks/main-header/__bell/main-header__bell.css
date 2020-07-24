@@ -1,0 +1,8 @@
+.main-header__bell {
+    width: 34px;
+    height: 34px;
+    background-image: url(../../../vendor/images/bell.svg);
+    background-size: cover;
+    margin-right: 12px;
+    margin-top: 4px;
+}

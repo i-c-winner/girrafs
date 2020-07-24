@@ -1,4 +1,5 @@
 
+@import url('./__input/main-card__input.css');
 @import url('./__img/_create/main-card__img_create.css');
 @import url('./__create/_disabled/main-card__create_disabled.css');
 @import url('./__sabmit/main-card__sabmit.css');
@@ -17,12 +18,14 @@
 @import url('./_state/main-card_state_disabled.css');
 
 .main-card {   
-    width: 236px;     
+    width: 236px;   
+    height: 520px;  
     background: #F3DBC7;
     border-radius: 28px;
-    padding: 14px 23px 0;
+    padding: 14px 23px 31px;
     box-sizing: border-box;
     margin-left: 33px;
+    position: relative;
  }
 
  .main-card:first-child {

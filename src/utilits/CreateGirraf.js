@@ -1,18 +1,15 @@
 //возвращаем массив данных по новому жирафу
 
 import nullimage from'../vendor/images/photo_create.png';
-import Sabmit from './Sabmit';
-
-
 import React from 'react';
+import '../blocks/main-card/main-card.css';
 
-function CreateGirraf(classes) {
-   
+
+function CreateGirraf(classes) {          
         return (
-                <form className={classes.classes} >
-          
+                <form className={classes.classes} >          
                         <p className="main-card__help">	&hellip;</p>
-                        <img  src={nullimage}className="main-card__img main-card__img_create" />
+                        <img  src={nullimage}className="main-card__img main-card__img_create" alt="аватара"/>
                         <input type="text" className="main-card__input main-card__input_name"
                                 placeholder="Введите имя"></input>
                         <div className="main-card__icons">

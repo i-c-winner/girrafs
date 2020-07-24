@@ -1,0 +1,13 @@
+@import url('./_noneactiv/main-header__menu-item_noneactiv.css');
+@import url('./_activ/main-header__menu-item_activ.css');
+
+.main-header__menu-item {
+    margin-top: 17px;
+    margin-right: 23px;
+    margin-bottom: -2px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+text-align: center;   
+}

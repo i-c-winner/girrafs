@@ -1,8 +1,8 @@
 .main-card__img {
-    margin: 0 auto;
-    background-image: url(../../../vendor/images/girrafs/girraf\ \(1\).png);
+    margin: 0 auto;    
     width: 150px;
     height: 150px;
     border-radius: 50%;
     margin-bottom: 16px;
+    display: block;
 }

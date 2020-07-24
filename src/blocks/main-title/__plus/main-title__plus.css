@@ -1,0 +1,8 @@
+.main-title__plus {
+    background-image: url(../../../vendor/images/plusziraf.png);
+    width: 37px;
+    height: 37px;
+    background-size: cover;
+    margin-top: 40px;
+    margin-left: 20px;
+}
