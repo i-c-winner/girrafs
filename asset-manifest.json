@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.fece6f1e.chunk.css",
-    "main.js": "/static/js/main.392f9994.chunk.js",
-    "main.js.map": "/static/js/main.392f9994.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0c1081c7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0c1081c7.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.6997dbf3.chunk.js": "/static/js/2.6997dbf3.chunk.js",
-    "static/js/2.6997dbf3.chunk.js.map": "/static/js/2.6997dbf3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2adb35cbf6e9c56a2ec9a1d78386e315.js": "/precache-manifest.2adb35cbf6e9c56a2ec9a1d78386e315.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.fece6f1e.chunk.css.map": "/static/css/main.fece6f1e.chunk.css.map",
-    "static/js/2.6997dbf3.chunk.js.LICENSE.txt": "/static/js/2.6997dbf3.chunk.js.LICENSE.txt",
-    "static/media/main-header.css": "/static/media/bell.44f83e15.svg",
-    "static/media/main-card.css": "/static/media/sex.ac1be5de.svg"
+    "main.css": "/girrafs/static/css/main.e94ccaa5.chunk.css",
+    "main.js": "/girrafs/static/js/main.eaedaf6a.chunk.js",
+    "main.js.map": "/girrafs/static/js/main.eaedaf6a.chunk.js.map",
+    "runtime-main.js": "/girrafs/static/js/runtime-main.511259da.js",
+    "runtime-main.js.map": "/girrafs/static/js/runtime-main.511259da.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/girrafs/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.cb3bb552.chunk.js": "/girrafs/static/js/2.cb3bb552.chunk.js",
+    "static/js/2.cb3bb552.chunk.js.map": "/girrafs/static/js/2.cb3bb552.chunk.js.map",
+    "index.html": "/girrafs/index.html",
+    "precache-manifest.03ac277d92cae4334b220b37281da245.js": "/girrafs/precache-manifest.03ac277d92cae4334b220b37281da245.js",
+    "service-worker.js": "/girrafs/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/girrafs/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e94ccaa5.chunk.css.map": "/girrafs/static/css/main.e94ccaa5.chunk.css.map",
+    "static/js/2.cb3bb552.chunk.js.LICENSE.txt": "/girrafs/static/js/2.cb3bb552.chunk.js.LICENSE.txt",
+    "static/media/main-header.css": "/girrafs/static/media/bell.44f83e15.svg",
+    "static/media/main-card.css": "/girrafs/static/media/sex.ac1be5de.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c1081c7.js",
+    "static/js/runtime-main.511259da.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.6997dbf3.chunk.js",
-    "static/css/main.fece6f1e.chunk.css",
-    "static/js/main.392f9994.chunk.js"
+    "static/js/2.cb3bb552.chunk.js",
+    "static/css/main.e94ccaa5.chunk.css",
+    "static/js/main.eaedaf6a.chunk.js"
   ]
 }
