@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/girrafs/static/css/main.e94ccaa5.chunk.css",
+    "main.css": "/girrafs/static/css/main.ec84a47a.chunk.css",
     "main.js": "/girrafs/static/js/main.eaedaf6a.chunk.js",
     "main.js.map": "/girrafs/static/js/main.eaedaf6a.chunk.js.map",
     "runtime-main.js": "/girrafs/static/js/runtime-main.511259da.js",
@@ -9,10 +9,10 @@
     "static/js/2.cb3bb552.chunk.js": "/girrafs/static/js/2.cb3bb552.chunk.js",
     "static/js/2.cb3bb552.chunk.js.map": "/girrafs/static/js/2.cb3bb552.chunk.js.map",
     "index.html": "/girrafs/index.html",
-    "precache-manifest.ac0d09a4f384585ae21c2c1138e60581.js": "/girrafs/precache-manifest.ac0d09a4f384585ae21c2c1138e60581.js",
+    "precache-manifest.52840e1e845b93dbb964451f34752980.js": "/girrafs/precache-manifest.52840e1e845b93dbb964451f34752980.js",
     "service-worker.js": "/girrafs/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/girrafs/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e94ccaa5.chunk.css.map": "/girrafs/static/css/main.e94ccaa5.chunk.css.map",
+    "static/css/main.ec84a47a.chunk.css.map": "/girrafs/static/css/main.ec84a47a.chunk.css.map",
     "static/js/2.cb3bb552.chunk.js.LICENSE.txt": "/girrafs/static/js/2.cb3bb552.chunk.js.LICENSE.txt",
     "static/media/main-header.css": "/girrafs/static/media/bell.44f83e15.svg",
     "static/media/main-card.css": "/girrafs/static/media/sex.ac1be5de.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.511259da.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.cb3bb552.chunk.js",
-    "static/css/main.e94ccaa5.chunk.css",
+    "static/css/main.ec84a47a.chunk.css",
     "static/js/main.eaedaf6a.chunk.js"
   ]
 }
