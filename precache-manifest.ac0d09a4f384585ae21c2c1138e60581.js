@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2f06fa258987b6cf4fa5b982ab4b710",
+    "revision": "08fb2f1613605db44ea5c9188bd57853",
     "url": "/girrafs/index.html"
   },
   {
