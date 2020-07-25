@@ -1,0 +1,12 @@
+@import url('./_enabled/popover__fon_enabled.css');
+@import url('./_disabled/popover__fon_disabled.css');
+
+.popover__fon {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: rgba(102, 134, 99, 0);
+        height: 100%;
+        z-index: 1;
+      }

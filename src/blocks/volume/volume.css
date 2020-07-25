@@ -1,0 +1,15 @@
+@import url("./__volume-scale/volume__volume-scale.css");
+@import url("./__volume-fon/volume__volume-fon.css");
+@import url("./__volume-info/volume__volume-info.css");
+@import url("./__text/volume__text.css");
+@import url("./__percent/volume__percent.css");
+@import url("./__close/volume__close.css");
+
+.volume {
+  width: 506px;
+  height: 150px;
+  border-radius: 28px;
+  background-color: #668663;
+  margin: 90px 0 0 auto;
+  padding: 12px 22px 0;
+}

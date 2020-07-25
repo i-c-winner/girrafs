@@ -1,0 +1,14 @@
+.popover__button {
+  border-radius: 52px;
+  width: 100%;
+  border: none;
+  line-height: 32px;
+  color: white;
+  background-color: inherit;
+  text-align: left;
+}
+
+.popover__button:hover {
+  background-color: #567354;
+  cursor: pointer;
+}

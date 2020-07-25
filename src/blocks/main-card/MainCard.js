@@ -3,10 +3,14 @@ import "./main-card.css";
 import "../main-cards/main-cards.css";
 import listStartGirrafs from "../../utilits/APIgirrafs.js";
 import Popover from "../popover/Popover";
-let popoverOpen = {'popover':"popover popover_state_enabled", 
-'popoverFon':"popover__fon_enabled popover__fon"};
-let popoverClosed ={'popover': "popover_state_disabled", 
-'popoverFon':"popover__fon_disabled popover__fon"};
+let popoverOpen = {
+  popover: "popover popover_state_enabled",
+  popoverFon: "popover__fon_enabled popover__fon",
+};
+let popoverClosed = {
+  popover: "popover_state_disabled",
+  popoverFon: "popover__fon_disabled popover__fon",
+};
 
 let isOpenMarker = null;
 
@@ -23,7 +27,6 @@ function MainCard() {
     return (
       <div key={elem.name} className="main-card">
         <p
-          
           className="main-card__help"
           onClick={(event) => {
             setIsIdMarker(() => {
@@ -39,23 +42,11 @@ function MainCard() {
         </p>
 
         <Popover
-        func1={() => {
-          setIsIdMarker(() => {
-            return "";
-          });
-        }}
-          func={() => {
-            setClasses(() => {
-            return "popover_state_disabled";
-            });
-          }}
-          classes={isOpenMarker}
-  
-
-        />
+          func1={() => {setIsIdMarker(() => {return ""})}}
+          func={() => {setClasses(() => {return "popover_state_disabled"})}}
+          classes={isOpenMarker}/>
         <img src={elem.img} className="main-card__img" />
         <p className="main-card__name">{elem.name}</p>
-
         <div className="main-card__icons">
           <div className="main-card__icon main-card__icon_sex"></div>
           <div className="main-card__icon main-card__icon_libra"></div>

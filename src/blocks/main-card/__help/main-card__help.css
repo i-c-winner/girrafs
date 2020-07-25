@@ -2,3 +2,7 @@
     text-align: end;
     margin: 0;
 }
+
+.main-card__help:hover {
+    cursor: pointer;
+}

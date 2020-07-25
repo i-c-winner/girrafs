@@ -21,9 +21,13 @@ function Popover(props) {
     //   })}
     >
       
-          <button type="button" onClick={ props.func,
+          <button type="button" className="popover__button" onClick={ props.func,
          props.func1
-      }  >dfdsggg</button>  
+      }  >
+        <img src={require('../../vendor/images/backet.png')} /> &nbsp; Редактировать</button>  
+       <button type="button" className="popover__button" onClick={ props.func,
+         props.func1
+      }  > <img src={require('../../vendor/images/pain.png')} /> &nbsp;Удалить</button>  
           </form>
     </div>
   );
