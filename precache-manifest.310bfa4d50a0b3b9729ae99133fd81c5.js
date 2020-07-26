@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab78f7c0e6020381d11ac1c5a89d4e6c",
+    "revision": "dd79df9737818dc7c324fa9a82b2f1d1",
     "url": "/girrafs/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/girrafs/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1871154156bc9d915493",
-    "url": "/girrafs/static/css/main.6587ca5d.chunk.css"
+    "revision": "ebaec8802471d2bec094",
+    "url": "/girrafs/static/css/main.ec56c6a3.chunk.css"
   },
   {
     "revision": "00d022579cee28efbf75",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/girrafs/static/js/2.c50ad3ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1871154156bc9d915493",
-    "url": "/girrafs/static/js/main.94102fc6.chunk.js"
+    "revision": "ebaec8802471d2bec094",
+    "url": "/girrafs/static/js/main.005bd716.chunk.js"
   },
   {
     "revision": "e27af6721ff02701032b",

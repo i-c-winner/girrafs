@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/girrafs/static/css/main.6587ca5d.chunk.css",
-    "main.js": "/girrafs/static/js/main.94102fc6.chunk.js",
-    "main.js.map": "/girrafs/static/js/main.94102fc6.chunk.js.map",
+    "main.css": "/girrafs/static/css/main.ec56c6a3.chunk.css",
+    "main.js": "/girrafs/static/js/main.005bd716.chunk.js",
+    "main.js.map": "/girrafs/static/js/main.005bd716.chunk.js.map",
     "runtime-main.js": "/girrafs/static/js/runtime-main.511259da.js",
     "runtime-main.js.map": "/girrafs/static/js/runtime-main.511259da.js.map",
     "static/css/2.af3c1da9.chunk.css": "/girrafs/static/css/2.af3c1da9.chunk.css",
     "static/js/2.c50ad3ac.chunk.js": "/girrafs/static/js/2.c50ad3ac.chunk.js",
     "static/js/2.c50ad3ac.chunk.js.map": "/girrafs/static/js/2.c50ad3ac.chunk.js.map",
     "index.html": "/girrafs/index.html",
-    "precache-manifest.a0eda14d4023c732803cbd074056727c.js": "/girrafs/precache-manifest.a0eda14d4023c732803cbd074056727c.js",
+    "precache-manifest.310bfa4d50a0b3b9729ae99133fd81c5.js": "/girrafs/precache-manifest.310bfa4d50a0b3b9729ae99133fd81c5.js",
     "service-worker.js": "/girrafs/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/girrafs/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.6587ca5d.chunk.css.map": "/girrafs/static/css/main.6587ca5d.chunk.css.map",
+    "static/css/main.ec56c6a3.chunk.css.map": "/girrafs/static/css/main.ec56c6a3.chunk.css.map",
     "static/js/2.c50ad3ac.chunk.js.LICENSE.txt": "/girrafs/static/js/2.c50ad3ac.chunk.js.LICENSE.txt",
     "static/media/main-header.css": "/girrafs/static/media/bell.44f83e15.svg",
     "static/media/main-card.css": "/girrafs/static/media/sex.ac1be5de.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.511259da.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c50ad3ac.chunk.js",
-    "static/css/main.6587ca5d.chunk.css",
-    "static/js/main.94102fc6.chunk.js"
+    "static/css/main.ec56c6a3.chunk.css",
+    "static/js/main.005bd716.chunk.js"
   ]
 }
