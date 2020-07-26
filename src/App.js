@@ -6,10 +6,7 @@ import Main from './blocks/main/Main'
 function App() {
   return (
     <div className="App container-fuild">
-      <div className='row'>
-        <Aside />
-        <Main />
-      </div>
+        <Aside /> 
     </div>
   );
 }

@@ -1,0 +1,11 @@
+.horses {
+    width: 800px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px auto;
+    padding-top: 60px;
+}

@@ -6,3 +6,8 @@
     margin-top: 5px;
     margin-left: 20px;
 }
+
+.main-title__plus:hover {
+    cursor: pointer;
+
+}
