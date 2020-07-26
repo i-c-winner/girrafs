@@ -65,14 +65,13 @@ function Aside() {
           </ul>
         
       </div>
-        <Switch>
-               
-            <Route exact path='/home' component ={Main}></Route>         
-            <Route exact path="/manage" component={Horses}></Route>
-            <Route exact path="/people" component={Horses}></Route>
-            <Route exact path="/settings" component={Horses}></Route>
-            <Route exact path="/tools" component={Horses}></Route>        
-            <Route exact path="/horse" component={Horses}></Route>
+        <Switch>               
+            <Route exact path='girrafs/home' component ={Main}></Route>         
+            <Route exact path="girrafs/manage" component={Horses}></Route>
+            <Route exact path="girrafs/people" component={Horses}></Route>
+            <Route exact path="girrafs/settings" component={Horses}></Route>
+            <Route exact path="girrafs/tools" component={Horses}></Route>        
+            <Route exact path="girrafs/horse" component={Horses}></Route>
               <Route  component ={Main}></Route>    
           </Switch>          
         </Router>     
