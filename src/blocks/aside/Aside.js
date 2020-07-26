@@ -1,5 +1,5 @@
 import React, { useState, useEffect} from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, Link, Redirect } from "react-router-dom";
 import "./aside.css";
 import asideImage from "../../vendor/images/ziraf_logo.png";
 import asideList from "../../utilits/asidelist";
@@ -34,7 +34,7 @@ function Aside() {
                 }
               }
               return (
-                <a href={elem[2]}
+                <Link to={elem[2]}
                   className="aside__item-box"
                   key={elem[0]}
                   onClick={() => {
@@ -59,20 +59,21 @@ function Aside() {
 
                   <p className="label__text">
                     {elem[0]} </p>
-                  </a>           
+                  </Link>           
               );
             })}
           </ul>
         
       </div>
         <Switch>
-            <Route exact path='/' component ={Main}></Route>
-            <Route exact path='/home' component ={Main}></Route>
+               
+            <Route exact path='/home' component ={Main}></Route>         
             <Route exact path="/manage" component={Horses}></Route>
             <Route exact path="/people" component={Horses}></Route>
             <Route exact path="/settings" component={Horses}></Route>
             <Route exact path="/tools" component={Horses}></Route>        
             <Route exact path="/horse" component={Horses}></Route>
+              <Route  component ={Main}></Route>    
           </Switch>          
         </Router>     
     </div>
