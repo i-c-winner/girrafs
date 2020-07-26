@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/girrafs/static/css/main.6587ca5d.chunk.css",
-    "main.js": "/girrafs/static/js/main.8643c365.chunk.js",
-    "main.js.map": "/girrafs/static/js/main.8643c365.chunk.js.map",
+    "main.js": "/girrafs/static/js/main.94102fc6.chunk.js",
+    "main.js.map": "/girrafs/static/js/main.94102fc6.chunk.js.map",
     "runtime-main.js": "/girrafs/static/js/runtime-main.511259da.js",
     "runtime-main.js.map": "/girrafs/static/js/runtime-main.511259da.js.map",
     "static/css/2.af3c1da9.chunk.css": "/girrafs/static/css/2.af3c1da9.chunk.css",
     "static/js/2.c50ad3ac.chunk.js": "/girrafs/static/js/2.c50ad3ac.chunk.js",
     "static/js/2.c50ad3ac.chunk.js.map": "/girrafs/static/js/2.c50ad3ac.chunk.js.map",
     "index.html": "/girrafs/index.html",
-    "precache-manifest.382da934533fd7bfeea254abc09e183d.js": "/girrafs/precache-manifest.382da934533fd7bfeea254abc09e183d.js",
+    "precache-manifest.a0eda14d4023c732803cbd074056727c.js": "/girrafs/precache-manifest.a0eda14d4023c732803cbd074056727c.js",
     "service-worker.js": "/girrafs/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/girrafs/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.6587ca5d.chunk.css.map": "/girrafs/static/css/main.6587ca5d.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c50ad3ac.chunk.js",
     "static/css/main.6587ca5d.chunk.css",
-    "static/js/main.8643c365.chunk.js"
+    "static/js/main.94102fc6.chunk.js"
   ]
 }
