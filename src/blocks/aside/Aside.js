@@ -59,8 +59,7 @@ function Aside() {
 
                   <p className="label__text">
                     {elem[0]} </p>
-                  </Link>
-                
+                  </Link>           
               );
             })}
           </ul>
