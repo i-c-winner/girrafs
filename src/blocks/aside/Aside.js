@@ -34,7 +34,7 @@ function Aside() {
                 }
               }
               return (
-                <Link to={elem[2]}
+                <a href={elem[2]}
                   className="aside__item-box"
                   key={elem[0]}
                   onClick={() => {
@@ -59,7 +59,7 @@ function Aside() {
 
                   <p className="label__text">
                     {elem[0]} </p>
-                  </Link>           
+                  </a>           
               );
             })}
           </ul>
