@@ -66,6 +66,7 @@ function Aside() {
         
       </div>
         <Switch>               
+            <Route exact path='/girrafs/home?' component ={Main}></Route>         
             <Route exact path='/girrafs/home' component ={Main}></Route>         
             <Route exact path="/girrafs/manage" component={Horses}></Route>
             <Route exact path="/girrafs/people" component={Horses}></Route>
