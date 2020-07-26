@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "658924c693004fb7a2668bbb6855ed23",
+    "revision": "0674c1d94a8def4953bc7697038399ca",
     "url": "/girrafs/index.html"
   },
   {
-    "revision": "00d022579cee28efbf75",
+    "revision": "c99d2898657ca7f27a88",
     "url": "/girrafs/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6599e6350d506447080f",
+    "revision": "9293cebcb586c9115a4d",
     "url": "/girrafs/static/css/main.6587ca5d.chunk.css"
   },
   {
-    "revision": "00d022579cee28efbf75",
-    "url": "/girrafs/static/js/2.c50ad3ac.chunk.js"
+    "revision": "c99d2898657ca7f27a88",
+    "url": "/girrafs/static/js/2.09baf4b1.chunk.js"
   },
   {
     "revision": "edbc79938c564134066dc08722bf82e3",
-    "url": "/girrafs/static/js/2.c50ad3ac.chunk.js.LICENSE.txt"
+    "url": "/girrafs/static/js/2.09baf4b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6599e6350d506447080f",
-    "url": "/girrafs/static/js/main.9e327157.chunk.js"
+    "revision": "9293cebcb586c9115a4d",
+    "url": "/girrafs/static/js/main.5844bba4.chunk.js"
   },
   {
     "revision": "e27af6721ff02701032b",
