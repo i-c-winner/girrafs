@@ -37,7 +37,7 @@ function CreateGirraf(classes) {
                                 <span className="main-card__character main-card__type main-card_type_span">Харатер:&nbsp; </span>
                                 <input className="main-card__input main-card__input_character" id="character"></input>
                         </div>
-                        <button type="button"   className="main-card__submit" >Сохранить</button>                  
+                        <button type="button"   className="main-card__submit" >Пока не работает</button>                  
                 </form>
         )
 }
