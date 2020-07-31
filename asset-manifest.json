@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/girrafs/static/css/main.95e18e3d.chunk.css",
-    "main.js": "/girrafs/static/js/main.e5357956.chunk.js",
-    "main.js.map": "/girrafs/static/js/main.e5357956.chunk.js.map",
+    "main.js": "/girrafs/static/js/main.9e78c164.chunk.js",
+    "main.js.map": "/girrafs/static/js/main.9e78c164.chunk.js.map",
     "runtime-main.js": "/girrafs/static/js/runtime-main.511259da.js",
     "runtime-main.js.map": "/girrafs/static/js/runtime-main.511259da.js.map",
     "static/css/2.af3c1da9.chunk.css": "/girrafs/static/css/2.af3c1da9.chunk.css",
     "static/js/2.a0f4f7dd.chunk.js": "/girrafs/static/js/2.a0f4f7dd.chunk.js",
     "static/js/2.a0f4f7dd.chunk.js.map": "/girrafs/static/js/2.a0f4f7dd.chunk.js.map",
     "index.html": "/girrafs/index.html",
-    "precache-manifest.c183d1e2aa33875d17cc542a0089c90e.js": "/girrafs/precache-manifest.c183d1e2aa33875d17cc542a0089c90e.js",
+    "precache-manifest.a2edea3f855b2ad2aaaffea2dd4ea1e7.js": "/girrafs/precache-manifest.a2edea3f855b2ad2aaaffea2dd4ea1e7.js",
     "service-worker.js": "/girrafs/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/girrafs/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.95e18e3d.chunk.css.map": "/girrafs/static/css/main.95e18e3d.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a0f4f7dd.chunk.js",
     "static/css/main.95e18e3d.chunk.css",
-    "static/js/main.e5357956.chunk.js"
+    "static/js/main.9e78c164.chunk.js"
   ]
 }
