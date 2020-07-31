@@ -7,7 +7,7 @@ import CreateGirraf from '../../utilits/CreateGirraf';
 import Volume from '../volume/Volume'
 
 
-function Main() {     
+function Main() {       
        let [classes, setClasses]=useState('main-card__create_disabled');      
     return (
         <div className='main' >            
@@ -20,7 +20,8 @@ function Main() {
                 </div> 
             </div>            
             <div className='main-cards'>
-                <CreateGirraf classes={classes} />
+                <CreateGirraf  classes={classes}
+                 func={()=>{setClasses(()=>{return 'main-card__create_disabled'})}} />
 <MainCard />
 </div>
 <Volume/>

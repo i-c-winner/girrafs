@@ -1,3 +1,5 @@
+
+
 .aside__item-box {
    width: 237px;
    height: 51px;
@@ -6,9 +8,11 @@
    box-sizing: border-box;
    margin-bottom: 27px;
    display: flex;
-   color: #F3DBC7;
+
 }
 
 .aside__item-box:hover {
    cursor: pointer;
+   background-color: #fff;
+   color: #567354;
 }
