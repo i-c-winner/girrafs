@@ -12,14 +12,11 @@ let popoverClosed = {
   popoverFon: "popover__fon_disabled popover__fon",
 };
 
-//const isValidList = JSON.parse(localStorage.getItem("girrafs"));
+
 let isOpenMarker = null;
 
 
    function MainCard (props) {
-    console.log('**********');
-    console.log(props.listGirrafs);
-    console.log('**************');
     let [classes, setClasses] = useState("popover_state_disabled");
     let [isIdMarker, setIsIdMarker] = useState("");  
 
@@ -35,7 +32,7 @@ let isOpenMarker = null;
             className="main-card__help"
             onClick={(event) => {
               setIsIdMarker(() => {
-                return elem.name;
+                return elem.valuesName.name;
               });
               setClasses(() => {
                 return isOpenMarker;
@@ -61,7 +58,7 @@ let isOpenMarker = null;
 
           <img src="https://res.cloudinary.com/dhbdvadmd/image/upload/v1595408534/girrafs/girraf_1_kc2dag.png" className="main-card__img" />
 
-          <p className="main-card__name"> &hellip;{elem.valuesName.values}</p>
+          <p className="main-card__name"> {elem.valuesName.values}</p>
 
           <div className="main-card__icons">
             <div className="main-card__icon main-card__icon_sex"></div>

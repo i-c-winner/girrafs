@@ -41,10 +41,7 @@ function Main() {
             });
           }}
           funcRender={(list) => {
-            setListGirrafs(() => {
-                 console.log('___________________________');
-                console.log(list);
-                console.log('___________________________');
+            setListGirrafs(() => {           
               return list;
             });
           }}
