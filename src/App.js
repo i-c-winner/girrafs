@@ -4,9 +4,10 @@ import Aside from './blocks/aside/Aside'
 
 
 function App() {
-  return (
+  return (  
+
     <div className="App container-fuild">
-        <Aside /> 
+       <Aside /> 
     </div>
   );
 }
