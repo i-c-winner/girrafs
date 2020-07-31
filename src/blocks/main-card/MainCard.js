@@ -11,20 +11,20 @@ let popoverClosed = {
   popover: "popover_state_disabled",
   popoverFon: "popover__fon_disabled popover__fon",
 };
-let MainCard = null;
-const startListGirrafs = JSON.parse(localStorage.getItem("girrafs"));
 
+//const isValidList = JSON.parse(localStorage.getItem("girrafs"));
 let isOpenMarker = null;
 
-if (startListGirrafs) {
-  MainCard = function () {
-    let [classes, setClasses] = useState("popover_state_disabled");
-    let [isIdMarker, setIsIdMarker] = useState("");
-    let [listGirrafs, setListGirrafs] = useState(startListGirrafs);
-    console.log(listGirrafs);
 
-    return listGirrafs.map((elem) => {
-      if (isIdMarker === elem.valuesName.values) {
+   function MainCard (props) {
+    console.log('**********');
+    console.log(props.listGirrafs);
+    console.log('**************');
+    let [classes, setClasses] = useState("popover_state_disabled");
+    let [isIdMarker, setIsIdMarker] = useState("");  
+
+    return ((props.listGirrafs||[]).map((elem) => {  
+          if (isIdMarker === elem.valuesName.values) {
         isOpenMarker = popoverOpen;
       } else {
         isOpenMarker = popoverClosed;
@@ -59,7 +59,7 @@ if (startListGirrafs) {
             classes={isOpenMarker}
           />
 
-          <img src={elem.img} className="main-card__img" />
+          <img src="https://res.cloudinary.com/dhbdvadmd/image/upload/v1595408534/girrafs/girraf_1_kc2dag.png" className="main-card__img" />
 
           <p className="main-card__name"> &hellip;{elem.valuesName.values}</p>
 
@@ -102,12 +102,8 @@ if (startListGirrafs) {
           </p>
         </div>
       );
-    });
+    }));
   };
-} else {
-  MainCard = function () {
-    return <div></div>;
-  };
-}
+
 
 export default MainCard;

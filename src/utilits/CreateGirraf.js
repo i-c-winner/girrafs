@@ -22,8 +22,9 @@ let values={valuesSex, valuesName, valuesWeight, valuesHeight,
 
   return (    
     <form onSubmit={(event)=>{
-      createButton(event, values);
-     props.func()
+      createButton(event, values, props.funcRender,
+         props.funcRenderVolume, props.func);
+
       
     }
     }

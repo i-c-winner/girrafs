@@ -1,11 +1,13 @@
 const localMemory= (JSON.parse(localStorage.getItem('girrafs'))||[])
 
-function createButton (event, values) {   
+function createButton (event, values, render, renderVolume, closed) {   
   event.preventDefault();   
-  console.log(values, 'это валуе');
   localMemory.unshift(values)
   localStorage.setItem('girrafs', JSON.stringify(localMemory));
-  console.log(localMemory)
+  render(localMemory)
+  renderVolume(localMemory.length)
+  closed("main-card__create_disabled")  
+  event.target.reset()
 
 }
 
